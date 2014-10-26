@@ -36,3 +36,11 @@ The following files are available for the train and test data. Their description
 * Process the data. There are two parts processing test and train data respectively.
 * Merge data set.
 
+Instructions
+
+To run this script, the following is required:
+
+* Install the following packages in R: data.table & reshape2
+* Download and expand the following dataset inside a directory called data. You will end up with a directory structure similar to Data\UCI HAR Dataset
+* Download this run_Analysis.R script and run in the same directory where you created the data subdirectory.
+* Enjoy!
