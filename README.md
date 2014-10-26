@@ -20,10 +20,10 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 ##Instructions
 To run this script, the following is required:
-1. Install the following packages in R: data.table & reshape2
-2. Download and expand the following dataset inside a directory called data. You will end up with a directory structure
+* Install the following packages in R: data.table & reshape2
+* Download and expand the following dataset inside a directory called data. You will end up with a directory structure
 similar to Data\UCI HAR Dataset
-3. Download this run_Analysis.R script and run in the same directory where you created the data subdirectory.
-4. Enjoy!
+* Download this run_Analysis.R script and run in the same directory where you created the data subdirectory.
+* Enjoy!
 
 
