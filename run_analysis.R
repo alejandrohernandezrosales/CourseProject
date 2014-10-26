@@ -1,3 +1,4 @@
+#run_analysis.R file for courseproject
 library(data.table)
 library(reshape2)
 #assign filenames to variables
